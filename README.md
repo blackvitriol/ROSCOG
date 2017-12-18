@@ -1,11 +1,11 @@
 # ROSCOG
-Developing a ROS-based Cognitive Architecture for AGI in Humanoid Robots
+_Developing a ROS-based Cognitive Architecture for AGI in Humanoid Robots. Using Deep Neural Networks for learning._
 
-Timeline: Mental Representations:
+**Timeline:**
+
+Mental Representations:
 
 A mental representation, also called cognitive representation, in philosophy of mind, cognitive psychology, and neuroscience is a hypothetical internal cognitive symbol that represents external reality. [ya]
-
-[ya] Morgan, Alex (2014). "Representations Gone Mental" (PDF). Synthese 191.2: 213–44.
 
 roslaunch cogarch diagnostics.launch 
 #different modes: ON [awake (autonomous), diagnostics, sleep (minimal power)] | OFF [dead]
@@ -17,5 +17,13 @@ Robot: Domain-Role: Process NLP Input, Load Memory/Experience, assume role, perf
 Diagnostics: Control Mode, adjust memory, beliefs revision 
 Asleep Mode: minimal power, repair process, charge battery, data defragment, LTM/Belief Revision
 
-please dont steal my ideas/work, i want to publish research on this and make a career out of this.
-contact me to collaborate instead ?
+#### Procedure:
+
+Use ROSCOG to produce a POMDP for an agent. Use a DQN for decision-making and reinforcement learning.
+Using Probablisitc Programming with Hypergraphs.
+
+`please dont steal my ideas/work, i want to publish research on this as this is my thesis, and eventually make a career out of this.
+contact me to collaborate instead ?`
+
+bibliography:
+[ya] Morgan, Alex (2014). "Representations Gone Mental" (PDF). Synthese 191.2: 213–44.
