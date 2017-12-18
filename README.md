@@ -22,6 +22,8 @@ Asleep Mode: minimal power, repair process, charge battery, data defragment, LTM
 Use ROSCOG to produce a POMDP for an agent. Use a DQN for decision-making and reinforcement learning.
 Using Probablisitc Programming with Hypergraphs.
 
+Tools: Python + ProbLog
+
 `please dont steal my ideas/work, i want to publish research on this as this is my thesis, and eventually make a career out of this.
 contact me to collaborate instead ?`
 
