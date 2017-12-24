@@ -1,5 +1,7 @@
 # ROSCOG
-_Developing a ROS-based Cognitive Architecture for AGI in Humanoid Robots. Using Deep Neural Networks for learning._
+_Developing a ROS-based Cognitive Architecture for AGI in Humanoid Robots. Using Deep Neural Networks for Representation and Reasoning._
+
+Introduction: We do not need science-fiction to tell us that robots will one day walk among us. This means robots will need to interact seamlessly in a multi-agent dynamic environment, that is our world. AI has taken great strides in past few years, and is expected to mature into AGI eventually. While robots like Sophia by Hanson Robotics, uses OpenCog Prime to express behaviour, I doubt that it will serve as a platform for the open-source community to develop AGI. The goal of starting ROSCOG is to create an open-source cognitive architecture for humanoid robots. ~~Perhaps, this new class of robots agents introduced into the society, will unite the human agents and end our social and political problems.~~
 
 **Timeline:**
 
