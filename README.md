@@ -21,12 +21,16 @@ Asleep Mode: minimal power, repair process, charge battery, data defragment, LTM
 
 #### Procedure:
 
-Use ROSCOG to produce a POMDP for an agent. Use a DQN for decision-making and reinforcement learning.
-Using Probablisitc Programming with Hypergraphs.
+Use ROSCOG for input/output and processing of a robot. 
+- Metacognition to produce a Dec-POMDP for an agent for decision-making. 
 
-Tools: Python + ProbLog
+'Knowledge Representation and Reasoning' can be blockchain based, allowing "safe" AGI.
+- Using Probablisitc Programming with Hypergraphs
+- Use a DQN for decision-making and reinforcement learning.
 
-`please dont steal my ideas/work, i want to publish research on this as this is my thesis, and eventually make a career out of this.
+Tools: Python + ProbLog + ROS + TensorFlow
+
+`please dont steal my ideas/work, i want to publish research on this, as this is might be my thesis (semi?/nano?), and eventually make a career out of this.
 contact me to collaborate instead ?`
 
 bibliography:
